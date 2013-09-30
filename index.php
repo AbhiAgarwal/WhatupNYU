@@ -11,17 +11,20 @@
 <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
 <script type="text/javascript" src="js/jquery.plugin.min.js"></script>
 <script type="text/javascript" src="js/layout.js"></script>
+<script type="text/javascript" src="js/pace.min.js"></script>
 </head>
-<body style="background-color:#8C489F;">
+<body style="background-color:#57068C;">
     <div id="content">
         <h1>What up, NYU?</h1>
-        
-        <div id="socialTimeline" style="width:800px;"></div>
+        <!-- Main DIV, old version (not cache optimized) -->
+        <div id="NYU" style="width:800px;"></div>
 </div>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-38603214-1']);
+  _gaq.push(['_setAccount', ''] /* Removed */);
+  _gaq.push(['_setDomainName', 'whatupnyu.com']);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -31,5 +34,6 @@
   })();
 
 </script>
+
 </body>
 </html>
