@@ -15,4 +15,4 @@ My thoughts on creating it:
 Technology Stack
 ========
 
-For this project I mostly used opensource software, and pulled things from my old projects. I built this mainly off jQuery, and to render it I used CSS & PHP. I used the jQuery Isotope, and the jQuery colorbox plugin, and the Facebook RSS API to quickly build this aggregator. 
+For this project I mostly used open-source software, and pulled things from my old projects. I built this mainly off jQuery, and to render it I used CSS & PHP. I used the jQuery Isotope, and the jQuery colorbox plugin, and the Facebook RSS API to quickly build this aggregator. 
